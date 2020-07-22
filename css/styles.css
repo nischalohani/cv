@@ -1,0 +1,14 @@
+
+    .first {
+    border-collapse: collapse;
+    width: 40%;
+  }
+  .second{
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+
+  }
+.third{
+  border: 1px solid black;
+}
